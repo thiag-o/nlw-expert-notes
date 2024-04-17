@@ -18,3 +18,12 @@ Para rodar a aplicação basta:
 
 1. Instalar as dependências `npm install`
 2. Rodar o comando `npm run dev` ou `npx vite`
+3. 😎 Adicionar suas anotações.
+
+## Tecnologias
+
+[![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind)](https://skillicons.dev)
+
+## Licença
+
+[MIT](https://choosealicense.com/licenses/mit/)
