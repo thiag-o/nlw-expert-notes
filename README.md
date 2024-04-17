@@ -23,7 +23,3 @@ Para rodar a aplicação basta:
 ## Tecnologias
 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind)](https://skillicons.dev)
-
-## Licença
-
-[MIT](https://choosealicense.com/licenses/mit/)
