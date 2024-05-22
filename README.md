@@ -10,6 +10,8 @@ O projeto foi elaborado em React e Tailwind e para a função de reconhecimento 
 
 <img src=".github/expert-notes.png" width="1000" alt="Expert Notes"/>
 
+Visualize o projeto aqui [Expert Notes](https://nlw-expert-notes-five-cyan.vercel.app/)
+
 ## Instalação
 
 Dependência: Node 18.17.0
